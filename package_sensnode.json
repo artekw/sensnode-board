@@ -1,0 +1,30 @@
+{
+   "packages":[
+      {
+         "name": "sensnode",
+         "maintainer": "Artur Wronowski",
+         "websiteURL": "http://digi-led.pl",
+         "email": "arteqw@gmail.com",
+         "platforms":[
+            {
+               "name": "Sensnode Boards",
+               "architecture": "avr",
+               "version": "0.0.1",
+               "category": "Contributed",
+               "url": "",
+               "archiveFileName": "sensnode-avr-0.0.1.zip",
+               "checksum": "SHA-256:36430016946c2a9886a2afa04973fe48ded7aa38a0b017136157cfb49b2d57c8",
+               "size": "474",
+               "help":{
+                  "online":"http://google.pl"
+               },
+               "boards":[
+                  { "name": "SensnodeTX/AtMega168" }
+               ],
+               "toolsDependencies":[]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
