@@ -11,10 +11,9 @@
                "architecture": "avr",
                "version": "0.0.1",
                "category": "sensnode",
-               "url": "https://github.com/artekw/sensnode-board/blob/master/sensnode-avr-0.0.1.zip",
+               "url": "https://github.com/artekw/sensnode-board/raw/master/sensnode-avr-0.0.1.zip",
                "archiveFileName": "sensnode-avr-0.0.1.zip",
                "checksum": "SHA-256:36430016946c2a9886a2afa04973fe48ded7aa38a0b017136157cfb49b2d57c8",
-               "size": "474",
                "boards":[
                   { "name": "SensnodeTX/AtMega168" }
                ],
