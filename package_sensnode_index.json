@@ -9,11 +9,11 @@
             {
                "name": "Sensnode Boards",
                "architecture": "avr",
-               "version": "0.1",
+               "version": "0.2",
                "category": "sensnode",
-               "url": "https://github.com/artekw/sensnode-board/raw/master/sensnode-avr-0.1.zip",
-               "archiveFileName": "sensnode-avr-0.1.zip",
-               "checksum": "SHA-256:754a3e345f4ad587663119d9e0ac0cd5ea5f72f007f91062da9794d822e0ae13",
+               "url": "https://github.com/artekw/sensnode-board/raw/master/sensnode-avr-0.2.zip",
+               "archiveFileName": "sensnode-avr-0.2.zip",
+               "checksum": "SHA-256:6abbd1a1f7da4a922ad8e860a8bfd5b3aba65cc4ec986ac9dde64a4b0c6a1b22",
                "boards":[
                   { "name": "SensnodeTX/AtMega168" }
                ],

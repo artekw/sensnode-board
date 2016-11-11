@@ -1,3 +1,5 @@
+menu.cpu=Processor
+
 stx.name=SensnodeTX/AtMega168
 
 stx.upload.tool=avrdude
@@ -5,6 +7,7 @@ stx.upload.protocol=arduino
 stx.upload.maximum_size=14336
 stx.upload.maximum_data_size=1024
 stx.upload.speed=115200
+stx.upload.params.quiet=-q -q
 
 stx.bootloader.tool=avrdude
 stx.bootloader.low_fuses=0xFF
